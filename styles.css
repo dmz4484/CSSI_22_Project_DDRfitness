@@ -1,0 +1,88 @@
+html {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.title {
+  font-size: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #1fc1d6;
+/*   font-family: 'Mouse Memoirs', sans-serif; */
+   text-shadow: 1px 3px 2px #04363e;
+}
+
+h1.bodypart_name {
+  color:  #BC3823;
+    font-size: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h3 {
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #1fc1d6;
+  font-size:24px;
+  margin: 32px;
+  text-align: center;
+}
+
+ul {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+li.bodypart_workouts {
+  margin: 16px;
+  font-size: 28px;
+  color:  #BC3823;
+  list-style: none;
+}
+
+.button {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+input {
+  padding: 12px;
+}
+
+
+button{
+  background-color:#1fc1d6;
+  color:#f8f7f7;
+  border-color:#1fc1d6;
+  font-family:Roboto;
+  font-size:28px;
+  padding:15px;
+  border-radius:11px;
+  
+}
+
+.container{
+  text-align: center;
+  
+}
+
+img {
+  height: 2%;
+  width: 250px;
+
+}
+
+.img_holder {
+    display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.recipeTitle, .summary{
+  font-family: 'Roboto';
+}
+
